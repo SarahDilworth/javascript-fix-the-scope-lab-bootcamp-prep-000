@@ -1,12 +1,12 @@
-var animal = 'dog'
+var animal = 'dog';
 
 function myAnimal() {
-return animal
+return animal;
 }
 
 function yourAnimal() {
-  animal = 
-  return animal
+  animal = 'cat';
+  return animal;
 }
 
 function add2(n) {
