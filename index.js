@@ -5,16 +5,13 @@ return animal
 }
 
 function yourAnimal() {
-  animal = 'cat'
+  animal = 
   return animal
 }
 
 function add2(n) {
-const = 2
-
-return n + two
-
-  
+   const two = 2;
+ return n + two;
 }
 
 var funkyFunction = function() {
